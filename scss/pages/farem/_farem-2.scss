@@ -1,0 +1,279 @@
+@media (min-width: 0px) {
+  .section-2 {
+    width: 100%;
+    height: 415px;
+    background-color: #fff;
+    .section-2__div {
+      max-width: 1300px;
+      margin: 0 auto;
+      padding: 30px 20px;
+      .section-2__text-1 {
+        color: var(--, #1f1d14);
+        font-family: "Fira Sans";
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-bottom: 31px;
+      }
+      .section-2__cantent {
+        display: flex;
+        justify-content: space-between;
+        .section-2__card {
+          width: 157px;
+          height: 247px;
+          background-color: rgba(211, 229, 242, 1);
+          padding: 25px 20px;
+          border-radius: 10px;
+          .section-2__text-2 {
+            color: #000;
+            font-family: "Fira Sans";
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin-bottom: 60px;
+          }
+        }
+        .section-2__card2 {
+          width: 157px;
+          height: 247px;
+          background-color: #e2c6be;
+          padding: 25px 20px;
+          border-radius: 10px;
+          .section-2__text-2 {
+            color: #000;
+            font-family: "Fira Sans";
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            margin-bottom: 60px;
+          }
+        }
+        .section-2__card3 {
+          display: none;
+        }
+        .section-2__card4 {
+          display: none;
+        }
+        .section-2__card5 {
+          display: none;
+        }
+        .section-2__card6 {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 760px) {
+    .section-2 {
+      width: 100%;
+      height: 415px;
+      background-color: #fff;
+      .section-2__div {
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 30px 20px;
+        .section-2__text-1 {
+          color: var(--, #1f1d14);
+          font-family: "Fira Sans";
+          font-size: 32px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          margin-bottom: 31px;
+        }
+        .section-2__cantent {
+          display: flex;
+          justify-content: space-between;
+          .section-2__card {
+            width: 157px;
+            height: 247px;
+            background-color: rgba(211, 229, 242, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card2 {
+            width: 157px;
+            height: 247px;
+            background-color: #e2c6be;
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card3 {
+            display: grid;
+            width: 157px;
+            height: 247px;
+            background-color: rgba(218, 219, 224, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card4 {
+            display: none;
+          }
+          .section-2__card5 {
+            display: none;
+          }
+          .section-2__card6 {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .section-2 {
+      width: 100%;
+      height: 415px;
+      background-color: #fff;
+      .section-2__div {
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 30px 20px;
+        .section-2__text-1 {
+          color: var(--, #1f1d14);
+          font-family: "Fira Sans";
+          font-size: 32px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          margin-bottom: 31px;
+        }
+        .section-2__cantent {
+          display: flex;
+          justify-content: space-between;
+          .section-2__card {
+            width: 157px;
+            height: 247px;
+            background-color: rgba(211, 229, 242, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card2 {
+            width: 157px;
+            height: 247px;
+            background-color: #e2c6be;
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card3 {
+            display: grid;
+            width: 157px;
+            height: 247px;
+            background-color: rgba(218, 219, 224, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card4 {
+            display: grid;
+            width: 157px;
+            height: 247px;
+            background-color: rgba(226, 238, 192, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card5 {
+            display: grid;
+            width: 157px;
+            height: 247px;
+            background-color: rgba(194, 188, 232, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+          .section-2__card6 {
+            display: grid;
+            width: 157px;
+            height: 247px;
+            background-color: rgba(171, 165, 32, 1);
+            padding: 25px 20px;
+            border-radius: 10px;
+            .section-2__text-2 {
+              color: #000;
+              font-family: "Fira Sans";
+              font-size: 20px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: normal;
+              margin-bottom: 60px;
+            }
+          }
+        }
+      }
+    }
+  }
