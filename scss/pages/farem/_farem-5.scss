@@ -18,7 +18,7 @@
       }
       .section-5__card {
         padding: 10px 10px;
-        width: 310px;
+        width: 100%;
         height: 367px;
         border-radius: 8px;
         background-color: #1f1d14;
@@ -39,7 +39,7 @@
       .section-5__card-2 {
         padding: 40px 40px 40px 40px;
         margin-top: 40px;
-        width: 240px;
+        width: 100%;
         height: 264px;
         background-color: #ffffff;
         display: grid;
@@ -69,11 +69,12 @@
         font-weight: 500;
         line-height: normal;
         margin-bottom: 20px;
+        margin-bottom: 30px;
       }
       .section-5__card {
         display: flex;
         padding: 70px 80px;
-        width: 700px;
+        justify-content: space-between;
         height: 367px;
         border-radius: 8px;
         background-color: #1f1d14;
@@ -91,14 +92,15 @@
         .btn {
           background-color: #1f1d14;
           border: none;
-          // margin-top: 300px;
+          
+          margin-top: 300px;
           // margin-left: 500px;
         }
       }
       .section-5__card-2 {
         padding: 40px 40px 40px 40px;
         margin-top: 40px;
-        width: 700px;
+        width: 100%;
         height: 154px;
         background-color: #ffffff;
         display: grid;
